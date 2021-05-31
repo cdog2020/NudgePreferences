@@ -3,7 +3,9 @@
     "simpleMode": false,
     "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
     "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
-    "forceScreenShotIcon": true
+    "forceScreenShotIcon": true,
+    "screenShotDarkPath": "/usr/local/houzzit/swuss.png",
+    "screenShotLightPath": "/usr/local/houzzit/swuss.png"
   },
   "osVersionRequirements": [
     {
