@@ -1,6 +1,6 @@
 {
   "userInterface": {
-    "simpleMode": false
+    "simpleMode": false,
     "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
     "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
     "forceScreenShotIcon": true
