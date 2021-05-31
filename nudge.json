@@ -4,8 +4,8 @@
     "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
     "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
     "forceScreenShotIcon": true,
-    "screenShotDarkPath": "/usr/local/houzzit/assests/updates/BigSurSoftwareUpdateGif.gif",
-    "screenShotLightPath": "/usr/local/houzzit/assests/updates/BigSurSoftwareUpdateGif.gif"
+    "screenShotDarkPath": "/usr/local/houzzit/swuss.png",
+    "screenShotLightPath": "/usr/local/houzzit/swuss.png"
   },
   "osVersionRequirements": [
     {
