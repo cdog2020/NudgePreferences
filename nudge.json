@@ -1,6 +1,9 @@
 {
   "userInterface": {
     "simpleMode": false
+    "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+    "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+    "forceScreenShotIcon": true
   },
   "osVersionRequirements": [
     {
@@ -10,7 +13,7 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos114"
         }
       ],
-      "requiredInstallationDate": "2021-02-28T00:00:00Z",
+      "requiredInstallationDate": "2021-05-04T02:00:00Z",
       "requiredMinimumOSVersion": "11.4",
       "targetedOSVersions": [
         "11.0",
