@@ -1,16 +1,14 @@
 {
   "userInterface": {
-    "updateElements": [
-      {
-        "subHeader": "A friendly reminder from your Houzz IT team"
-      }
-    ],
     "simpleMode": false,
     "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
     "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
     "forceScreenShotIcon": true,
     "screenShotDarkPath": "/usr/local/houzzit/swussLight.png",
     "screenShotLightPath": "/usr/local/houzzit/swussDark.png"
+    "updateElements": [
+      "subHeader": "A friendly reminder from your Houzz IT team"
+    ]
   },
   "osVersionRequirements": [
     {
@@ -34,5 +32,5 @@
         "11.3.1"
       ]
     }
-  ],
+  ]
 }
