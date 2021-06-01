@@ -8,7 +8,7 @@
     "screenShotLightPath": "/usr/local/houzzit/swussDark.png"
     "updateElements": [
       "subHeader": "A friendly reminder from your Houzz IT team"
-    ]
+    ],
   },
   "osVersionRequirements": [
     {
