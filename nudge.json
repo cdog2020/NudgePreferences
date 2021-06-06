@@ -9,7 +9,7 @@
     "updateElements": [
       {
         "_language": "en",
-        "actionButtonText": :"Update Device",
+        "actionButtonText": "Update Device",
         "informationButtonText": "Submit Ticket",
         "mainContentHeader": "This update requires your device to restart",
         "mainContentNote": "Urgent Update Required",
