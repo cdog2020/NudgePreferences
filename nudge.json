@@ -9,10 +9,10 @@
           "aboutUpdateURLs": [
             {
               "_language": "en",
-              "aboutUpdateURL": "https://drive.google.com/file/d/1yNcJVMzrPKx5KTNWcXx7waOMULureOjT/view?usp=sharing"
+              "aboutUpdateURL": "https://support.apple.com/en-us/HT201541"
             }
           ],
-          "requiredInstallationDate": "2021-08-15T00:00:00Z",
+          "requiredInstallationDate": "2021-08-16T00:00:00Z",
           "requiredMinimumOSVersion": "11.5.2",
           "targetedOSVersions": [
             "11.0",
@@ -26,7 +26,7 @@
             "11.3.1",
             "11.4",
 	    "11.5",
-	    "11.5.1"
+            "11.5.1"
 		]
 	  }
 	],
@@ -46,11 +46,11 @@
 	},
 	"userInterface": {
         "simpleMode": false,
-        "iconDarkPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
-        "iconLightPath": "/usr/local/houzzit/Houzz_s_rgb_512x512.png",
+        "iconDarkPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+        "iconLightPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
         "forceScreenShotIcon": true,
-        "screenShotDarkPath": "/usr/local/houzzit/swussLight.png",
-        "screenShotLightPath": "/usr/local/houzzit/swussDark.png",
+        "screenShotDarkPath": "/usr/local/CorpEng/Assets/swuLight.png",
+        "screenShotLightPath": "/usr/local/CorpEng/Assets/swuDark.png",
         "updateElements": [
           {
             "_language": "en",
@@ -59,11 +59,11 @@
             "mainContentHeader": "This update requires your device to restart",
             "mainContentNote": "Urgent Update Required",
             "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
-            "mainContentText": "Your Houzz issued device requires a fully up-to-date operating system to ensure that IT can accurately protect your device.\n\nAs soon as you are able, please save your work and install updates.\n\nIf you have any questions, submit a ticket at https://toolbox.houzz.com/support/home.",
+            "mainContentText": "Your Cockroach Labs issued device requires a fully up-to-date operating system within the next 24 hours to ensure that CorpEng and Security can accurately protect your device and keep your device in compliance.\n\nPLEASE NOTE: Because you have escalated access, you will need to keep your device patched within 24 hours of Apple releasing an update.\n\nIf you have any questions, submit a ticket to helpdesk@cockroachlabs.com.",
             "mainHeader": "Action Required - Your device requires a security update",
             "primaryQuitButtonText": "Ask Me Later",
             "secondaryQuitButtonText": "I Understand",
-            "subHeader": "A friendly reminder from your Houzz IT team"
+            "subHeader": "A friendly reminder from your Cockroach Labs CorpEng and Security teams"
 		}
 	  ]
 	}
