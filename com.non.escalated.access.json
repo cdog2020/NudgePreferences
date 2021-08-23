@@ -1,0 +1,72 @@
+{
+	"optionalFeatures": {
+	  "asyncronousSoftwareUpdate": false,
+	  "attemptToFetchMajorUpgrade": false,
+	  "enforceMinorUpdates": true
+	},
+	"osVersionRequirements": [
+        {
+          "aboutUpdateURLs": [
+            {
+              "_language": "en",
+              "aboutUpdateURL": "https://support.apple.com/en-us/HT201541"
+            }
+          ],
+          "requiredInstallationDate": "2021-08-25T00:00:00Z",
+          "requiredMinimumOSVersion": "11.5.4",
+          "targetedOSVersions": [
+            "11.0",
+            "11.0.1",
+            "11.1",
+            "11.2",
+            "11.2.1",
+            "11.2.2",
+            "11.2.3",
+            "11.3",
+            "11.3.1",
+            "11.4",
+	          "11.5",
+            "11.5.1",
+            "11.5.2",
+            "11.5.3"
+		]
+	  }
+	],
+	"userExperience": {
+	  "allowedDeferrals": 40,
+	  "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
+	  "approachingRefreshCycle": 6000,
+	  "approachingWindowTime": 72,
+	  "elapsedRefreshCycle": 300,
+	  "imminentRefreshCycle": 6000,
+	  "imminentWindowTime": 24,
+	  "initialRefreshCycle": 18000,
+	  "maxRandomDelayInSeconds": 1200,
+	  "noTimers": false,
+	  "nudgeRefreshCycle": 300,
+	  "randomDelay": false
+	},
+	"userInterface": {
+        "simpleMode": false,
+        "iconDarkPath": "/Users/christiandelahaya/Desktop/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+        "iconLightPath": "/Users/christiandelahaya/Desktop/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+        "forceScreenShotIcon": true,
+        "screenShotDarkPath": "/Users/christiandelahaya/Desktop/swuLight.png",
+        "screenShotLightPath": "/Users/christiandelahaya/Desktop/swuDark.png",
+        "updateElements": [
+          {
+            "_language": "en",
+            "actionButtonText": "Update Device",
+            "informationButtonText": "How To Update?",
+            "mainContentHeader": "This update requires your device to restart",
+            "mainContentNote": "Update Required",
+            "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
+            "mainContentText": "Your Cockroach Labs issued device requires a macOS system update to ensure the company can accurately protect your device and keep it compliant.\n\nPLEASE NOTE: After the deadline is reached, this update will force install and your current work can be lost.  Please update before the deadline is reached.\n\nIf you have any questions, please contact helpdesk@cockroachlabs.com.",
+            "mainHeader": "Action Required - Software update needed",
+            "primaryQuitButtonText": "Ask Me Later",
+            "secondaryQuitButtonText": "I Understand",
+            "subHeader": "A friendly reminder from your Cockroach Labs CorpEng and Security teams"
+		}
+	  ]
+	}
+}
