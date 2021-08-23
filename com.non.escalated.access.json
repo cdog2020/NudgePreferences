@@ -50,7 +50,7 @@
         "iconLightPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
         "forceScreenShotIcon": true,
         "screenShotDarkPath": "/usr/local/CorpEng/Assets/swuLight.png",
-        "screenShotLightPath": "/usr/local/CorpEng/Assets/swuLight.png",
+        "screenShotLightPath": "/usr/local/CorpEng/Assets/swuDark.png",
         "updateElements": [
           {
             "_language": "en",
