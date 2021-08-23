@@ -46,11 +46,11 @@
 	},
 	"userInterface": {
         "simpleMode": false,
-        "iconDarkPath": "/Users/christiandelahaya/Desktop/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
-        "iconLightPath": "/Users/christiandelahaya/Desktop/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+        "iconDarkPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+        "iconLightPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
         "forceScreenShotIcon": true,
-        "screenShotDarkPath": "/Users/christiandelahaya/Desktop/swuLight.png",
-        "screenShotLightPath": "/Users/christiandelahaya/Desktop/swuDark.png",
+        "screenShotDarkPath": "/usr/local/CorpEng/Assets/swuLight.png",
+        "screenShotLightPath": "/usr/local/CorpEng/Assets/swuLight.png",
         "updateElements": [
           {
             "_language": "en",
