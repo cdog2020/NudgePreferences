@@ -46,8 +46,8 @@
 	},
 	"userInterface": {
         "simpleMode": false,
-        "iconDarkPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
-        "iconLightPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
+        "iconDarkPath": "/usr/local/CorpEng/Assets/CockroachLabs_Full-Logo-Stacked_Reduced-Color-Light-BG.png",
+        "iconLightPath": "/usr/local/CorpEng/Assets/CockroachLabs_Full-Logo-Stacked_Reduced-Color-Light-BG",
         "forceScreenShotIcon": true,
         "screenShotDarkPath": "/usr/local/CorpEng/Assets/swuLight.png",
         "screenShotLightPath": "/usr/local/CorpEng/Assets/swuDark.png",
