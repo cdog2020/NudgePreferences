@@ -61,7 +61,7 @@
             "mainContentNote": "Update Required",
             "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
             "mainContentText": "Your Cockroach Labs issued device requires a macOS system update to ensure the company can accurately protect your device and keep it compliant.\n\nAfter the deadline is reached, this update will force install and your current work can be lost. You may also lose access to essential systems.  Please update before the deadline is reached.\n\nIf you have any questions, please contact helpdesk@cockroachlabs.com.",
-            "mainHeader": "Action Required - Software Update Needed",
+            "mainHeader": "Action Required - Your device requires a security update",
             "primaryQuitButtonText": "Ask Me Later",
             "secondaryQuitButtonText": "I Understand",
             "subHeader": "A friendly reminder from your CorpEng and Security teams"
