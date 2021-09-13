@@ -13,7 +13,7 @@
             }
           ],
           "requiredInstallationDate": "2021-09-02T00:00:00Z",
-          "requiredMinimumOSVersion": "11.5.2",
+          "requiredMinimumOSVersion": "11.6",
           "targetedOSVersions": [
             "11.0",
             "11.0.1",
@@ -26,7 +26,8 @@
             "11.3.1",
             "11.4",
 	    "11.5",
-            "11.5.1"
+            "11.5.1",
+	    "11.5.2"
 		]
 	  }
 	],
@@ -59,11 +60,11 @@
             "mainContentHeader": "This update requires your device to restart",
             "mainContentNote": "Update Required",
             "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
-            "mainContentText": "Your Cockroach Labs issued device requires a macOS system update to ensure the company can accurately protect your device and keep it compliant.\n\nPLEASE NOTE: After the deadline is reached, this update will force install and your current work can be lost.  Please update before the deadline is reached.\n\nIf you have any questions, please contact helpdesk@cockroachlabs.com.",
+            "mainContentText": "Your Cockroach Labs issued device requires a macOS system update to ensure the company can accurately protect your device and keep it compliant.\n\nAfter the deadline is reached, this update will force install and your current work can be lost. You may also lose access to essential systems.  Please update before the deadline is reached.\n\nIf you have any questions, please contact helpdesk@cockroachlabs.com.",
             "mainHeader": "Action Required - Software Update Needed",
             "primaryQuitButtonText": "Ask Me Later",
             "secondaryQuitButtonText": "I Understand",
-            "subHeader": "A friendly reminder from your Cockroach Labs CorpEng and Security teams"
+            "subHeader": "A friendly reminder from your CorpEng and Security teams"
 		}
 	  ]
 	}
