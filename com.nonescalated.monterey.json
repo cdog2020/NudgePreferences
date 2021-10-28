@@ -1,0 +1,60 @@
+{
+	"optionalFeatures": {
+	  "asyncronousSoftwareUpdate": false,
+	  "attemptToFetchMajorUpgrade": false,
+	  "enforceMinorUpdates": true
+	},
+	"osVersionRequirements": [
+        {
+          "aboutUpdateURLs": [
+            {
+              "_language": "en",
+              "aboutUpdateURL": "https://support.apple.com/en-us/HT201541"
+            }
+          ],
+          "requiredInstallationDate": "2021-11-03T00:00:00Z",
+          "requiredMinimumOSVersion": "12.2",
+          "targetedOSVersions": [
+            "12.0",
+            "12.0.1"
+		]
+	  }
+	],
+	"userExperience": {
+	  "allowedDeferrals": 40,
+	  "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
+	  "approachingRefreshCycle": 6000,
+	  "approachingWindowTime": 72,
+	  "elapsedRefreshCycle": 300,
+	  "imminentRefreshCycle": 6000,
+	  "imminentWindowTime": 24,
+	  "initialRefreshCycle": 18000,
+	  "maxRandomDelayInSeconds": 1200,
+	  "noTimers": false,
+	  "nudgeRefreshCycle": 300,
+	  "randomDelay": false
+	},
+	"userInterface": {
+        "simpleMode": false,
+        "iconDarkPath": "/usr/local/CorpEng/Assets/CorpEng_Bug_v1_HighRes.png",
+        "iconLightPath": "/usr/local/CorpEng/Assets/CorpEng_Bug_v1_HighRes.png",
+        "forceScreenShotIcon": true,
+        "screenShotDarkPath": "/usr/local/CorpEng/Assets/swuLight.png",
+        "screenShotLightPath": "/usr/local/CorpEng/Assets/swuDark.png",
+        "updateElements": [
+          {
+            "_language": "en",
+            "actionButtonText": "Update Device",
+            "informationButtonText": "How To Update?",
+            "mainContentHeader": "This update requires your device to restart",
+            "mainContentNote": "Update Required",
+            "mainContentSubHeader": "Updates can take around 30 minutes to complete.",
+            "mainContentText": "Your Cockroach Labs issued device requires a macOS system update to ensure the company can accurately protect your device and keep it compliant.\n\nAfter the deadline is reached, this update will force install and your current work can be lost. You may also lose access to essential systems.  Please update before the deadline is reached.\n\nIf you have any questions, please contact helpdesk@cockroachlabs.com.",
+            "mainHeader": "Action Required - Your device requires a security update",
+            "primaryQuitButtonText": "Ask Me Later",
+            "secondaryQuitButtonText": "I Understand",
+            "subHeader": "A friendly reminder from your CorpEng and Security teams"
+		}
+	  ]
+	}
+}
