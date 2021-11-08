@@ -54,8 +54,8 @@
         "iconDarkPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
         "iconLightPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
         "forceScreenShotIcon": true,
-        "screenShotDarkPath": "/usr/local/CorpEng/Assets/DNDMonterey.png",
-        "screenShotLightPath": "/usr/local/CorpEng/Assets/DNDMonterey.png",
+        "screenShotDarkPath": "/usr/local/CorpEng/Assets/DNDMontereyLight.png",
+        "screenShotLightPath": "/usr/local/CorpEng/Assets/DNDMontereyDark.png",
         "updateElements": [
           {
             "_language": "en",
