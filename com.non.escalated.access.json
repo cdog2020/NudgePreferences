@@ -51,8 +51,8 @@
         "iconDarkPath": "/usr/local/CorpEng/Assets/CorpEng_Bug_v1_HighRes.png",
         "iconLightPath": "/usr/local/CorpEng/Assets/CorpEng_Bug_v1_HighRes.png",
         "forceScreenShotIcon": true,
-        "screenShotDarkPath": "/usr/local/CorpEng/Assets/swuLight.png",
-        "screenShotLightPath": "/usr/local/CorpEng/Assets/swuDark.png",
+        "screenShotDarkPath": "/usr/local/CorpEng/Assets/DNDMonterey.png",
+        "screenShotLightPath": "/usr/local/CorpEng/Assets/DNDMonterey.png",
         "updateElements": [
           {
             "_language": "en",
