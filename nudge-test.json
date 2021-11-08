@@ -13,7 +13,7 @@
             }
           ],
           "requiredInstallationDate": "2021-10-28T00:00:00Z",
-          "requiredMinimumOSVersion": "11.6.1",
+          "requiredMinimumOSVersion": "12.1",
           "targetedOSVersions": [
             "11.0",
             "11.0.1",
@@ -28,7 +28,10 @@
 	    "11.5",
             "11.5.1",
             "11.5.2",
-	    "11.6"
+	    "11.6",
+	    "11.6.1",
+	    "12.0",
+	    "12.0.1"
 		]
 	  }
 	],
@@ -51,8 +54,8 @@
         "iconDarkPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
         "iconLightPath": "/usr/local/CorpEng/Assets/CockroachLabs_Logo-Mark_Full-Color-Dark-BG.png",
         "forceScreenShotIcon": true,
-        "screenShotDarkPath": "/usr/local/CorpEng/Assets/swuLight.png",
-        "screenShotLightPath": "/usr/local/CorpEng/Assets/swuDark.png",
+        "screenShotDarkPath": "/usr/local/CorpEng/Assets/DNDMonterey.png",
+        "screenShotLightPath": "/usr/local/CorpEng/Assets/DNDMonterey.png",
         "updateElements": [
           {
             "_language": "en",
