@@ -12,7 +12,7 @@
               "aboutUpdateURL": "https://support.apple.com/en-us/HT201541"
             }
           ],
-          "requiredInstallationDate": "2021-12-10T00:00:00Z",
+          "requiredInstallationDate": "2021-12-15T00:00:00Z",
           "requiredMinimumOSVersion": "11.6.1",
           "targetedOSVersions": [
             "11.0",
