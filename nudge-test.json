@@ -2,7 +2,6 @@
 	"optionalFeatures": {
 	  "aggressiveUserExperience": false,
 	  "asyncronousSoftwareUpdate": false,
-	  "attemptToFetchMajorUpgrade": false,
 	  "enforceMinorUpdates": true
 	},
 	"osVersionRequirements": [
