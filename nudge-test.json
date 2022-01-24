@@ -1,5 +1,6 @@
 {
 	"optionalFeatures": {
+	  "aggressiveUserExperience": false,
 	  "asyncronousSoftwareUpdate": false,
 	  "attemptToFetchMajorUpgrade": false,
 	  "enforceMinorUpdates": true
@@ -12,8 +13,8 @@
               "aboutUpdateURL": "https://support.apple.com/en-us/HT201541"
             }
           ],
-          "requiredInstallationDate": "2021-11-28T00:00:00Z",
-          "requiredMinimumOSVersion": "12.1",
+          "requiredInstallationDate": "2021-02-01T00:00:00Z",
+          "requiredMinimumOSVersion": "12.2",
           "targetedOSVersions": [
             "11.0",
             "11.0.1",
@@ -30,6 +31,7 @@
             "11.5.2",
 	    "11.6",
 	    "11.6.1",
+	    "11.6.2,
 	    "12.0",
 	    "12.0.1"
 		]
